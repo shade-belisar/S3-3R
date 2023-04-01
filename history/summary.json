@@ -4,19 +4,19 @@
     "url": "https://bielefeldt.berlin/explore",
     "icon": "https://icons.duckduckgo.com/ip3/bielefeldt.berlin.ico",
     "slug": "memos",
-    "status": "down",
-    "uptime": "84.03%",
-    "uptimeDay": "84.03%",
-    "uptimeWeek": "84.03%",
-    "uptimeMonth": "84.03%",
-    "uptimeYear": "84.03%",
-    "time": 774,
-    "timeDay": 774,
-    "timeWeek": 774,
-    "timeMonth": 774,
-    "timeYear": 774,
+    "status": "up",
+    "uptime": "8.58%",
+    "uptimeDay": "8.58%",
+    "uptimeWeek": "8.58%",
+    "uptimeMonth": "8.58%",
+    "uptimeYear": "8.58%",
+    "time": 747,
+    "timeDay": 747,
+    "timeWeek": 747,
+    "timeMonth": 747,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2023-04-01": 1
+      "2023-04-01": 34
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://element.bielefeldt.berlin/#/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/element.bielefeldt.berlin.ico",
     "slug": "element",
-    "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.17%",
-    "uptimeYear": "98.17%",
-    "time": 966,
-    "timeDay": 966,
-    "timeWeek": 966,
-    "timeMonth": 966,
-    "timeYear": 966,
+    "status": "up",
+    "uptime": "9.88%",
+    "uptimeDay": "9.88%",
+    "uptimeWeek": "9.88%",
+    "uptimeMonth": "9.88%",
+    "uptimeYear": "9.88%",
+    "time": 748,
+    "timeDay": 748,
+    "timeWeek": 748,
+    "timeMonth": 748,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2023-04-01": 0
+      "2023-04-01": 33
     }
   }
 ]
