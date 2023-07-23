@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
-    "timeDay": 721,
-    "timeWeek": 660,
-    "timeMonth": 565,
-    "timeYear": 554,
+    "time": 553,
+    "timeDay": 450,
+    "timeWeek": 617,
+    "timeMonth": 560,
+    "timeYear": 553,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://memos.bielefeldt.berlin/explore",
     "icon": "https://icons.duckduckgo.com/ip3/memos.bielefeldt.berlin.ico",
     "slug": "memos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 646,
-    "timeWeek": 547,
-    "timeMonth": 551,
-    "timeYear": 577,
-    "dailyMinutesDown": {}
+    "time": 603,
+    "timeDay": 2702,
+    "timeWeek": 1088,
+    "timeMonth": 680,
+    "timeYear": 603,
+    "dailyMinutesDown": {
+      "2023-07-23": 0
+    }
   },
   {
     "name": "Element",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 548,
-    "timeWeek": 545,
-    "timeMonth": 507,
-    "timeYear": 584,
+    "time": 583,
+    "timeDay": 420,
+    "timeWeek": 531,
+    "timeMonth": 504,
+    "timeYear": 583,
     "dailyMinutesDown": {}
   }
 ]
