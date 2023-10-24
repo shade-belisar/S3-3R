@@ -4,9 +4,9 @@
     "url": "https://bielefeldt.berlin",
     "icon": "https://icons.duckduckgo.com/ip3/bielefeldt.berlin.ico",
     "slug": "tarek-ist-doof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 744,
     "timeMonth": 641,
     "timeYear": 601,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-24": 0
+    }
   },
   {
     "name": "Memos",
