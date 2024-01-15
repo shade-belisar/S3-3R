@@ -6,18 +6,16 @@
     "slug": "tarek-ist-doof",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 592,
     "timeDay": 736,
     "timeWeek": 595,
     "timeMonth": 569,
     "timeYear": 592,
-    "dailyMinutesDown": {
-      "2024-01-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Memos",
