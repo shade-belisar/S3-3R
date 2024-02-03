@@ -4,9 +4,9 @@
     "url": "https://bielefeldt.berlin",
     "icon": "https://icons.duckduckgo.com/ip3/bielefeldt.berlin.ico",
     "slug": "tarek-ist-doof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 648,
     "timeMonth": 595,
     "timeYear": 593,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-03": 0
+    }
   },
   {
     "name": "Memos",
     "url": "https://memos.bielefeldt.berlin/explore",
     "icon": "https://icons.duckduckgo.com/ip3/memos.bielefeldt.berlin.ico",
     "slug": "memos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -34,6 +36,7 @@
     "timeMonth": 607,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2024-02-03": 0,
       "2024-01-01": 33,
       "2023-08-06": 255,
       "2023-07-24": 616,
@@ -45,7 +48,7 @@
     "url": "https://element.bielefeldt.berlin/#/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/element.bielefeldt.berlin.ico",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +59,8 @@
     "timeWeek": 623,
     "timeMonth": 586,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-03": 0
+    }
   }
 ]
