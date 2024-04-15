@@ -24,10 +24,10 @@
     "url": "https://memos.bielefeldt.berlin/explore",
     "icon": "https://icons.duckduckgo.com/ip3/memos.bielefeldt.berlin.ico",
     "slug": "memos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
     "time": 589,
@@ -36,6 +36,7 @@
     "timeMonth": 586,
     "timeYear": 587,
     "dailyMinutesDown": {
+      "2024-04-15": 1,
       "2024-02-24": 530,
       "2024-02-23": 733,
       "2024-02-03": 22,
@@ -50,9 +51,9 @@
     "url": "https://element.bielefeldt.berlin/#/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/element.bielefeldt.berlin.ico",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -62,6 +63,7 @@
     "timeMonth": 552,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2024-04-15": 0,
       "2024-02-03": 22
     }
   }
