@@ -1,7 +1,7 @@
 url: https://memos.bielefeldt.berlin/explore
-status: up
-code: 200
-responseTime: 562
-lastUpdated: 2024-06-13T23:11:44.383Z
+status: down
+code: 502
+responseTime: 581
+lastUpdated: 2024-06-14T01:32:53.132Z
 startTime: 2023-04-01T11:56:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
