@@ -4,9 +4,9 @@
     "url": "https://bielefeldt.berlin",
     "icon": "https://icons.duckduckgo.com/ip3/bielefeldt.berlin.ico",
     "slug": "tarek-ist-doof",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 665,
     "timeYear": 616,
     "dailyMinutesDown": {
+      "2024-10-03": 0,
       "2024-02-03": 22
     }
   },
