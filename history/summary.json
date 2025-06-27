@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 636,
-    "timeDay": 640,
-    "timeWeek": 723,
-    "timeMonth": 701,
-    "timeYear": 641,
+    "timeDay": 710,
+    "timeWeek": 715,
+    "timeMonth": 703,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2025-03-07": 33,
       "2024-10-27": 33,
@@ -35,10 +35,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 637,
-    "timeDay": 628,
-    "timeWeek": 629,
+    "timeDay": 563,
+    "timeWeek": 599,
     "timeMonth": 644,
-    "timeYear": 647,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2025-03-07": 33,
       "2024-11-14": 20,
@@ -54,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/element.bielefeldt.berlin.ico",
     "slug": "element",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.50%",
+    "uptimeYear": "98.77%",
     "time": 711,
-    "timeDay": 613,
-    "timeWeek": 635,
-    "timeMonth": 638,
-    "timeYear": 671,
+    "timeDay": 529,
+    "timeWeek": 595,
+    "timeMonth": 640,
+    "timeYear": 663,
     "dailyMinutesDown": {
       "2025-03-07": 21,
       "2024-11-14": 83,
@@ -72,8 +72,7 @@
       "2024-07-01": 660,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
-      "2024-06-28": 1440,
-      "2024-06-27": 1440
+      "2024-06-28": 1440
     }
   }
 ]
