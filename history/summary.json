@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 653,
-    "timeDay": 715,
-    "timeWeek": 738,
-    "timeMonth": 740,
+    "timeDay": 644,
+    "timeWeek": 737,
+    "timeMonth": 736,
     "timeYear": 667,
-    "dailyMinutesDown": {
-      "2025-03-07": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Memos",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 652,
-    "timeDay": 814,
-    "timeWeek": 700,
-    "timeMonth": 742,
+    "timeDay": 583,
+    "timeWeek": 667,
+    "timeMonth": 737,
     "timeYear": 663,
-    "dailyMinutesDown": {
-      "2025-03-07": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Element",
@@ -51,12 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 667,
-    "timeWeek": 744,
-    "timeMonth": 679,
+    "timeDay": 635,
+    "timeWeek": 695,
+    "timeMonth": 673,
     "timeYear": 644,
-    "dailyMinutesDown": {
-      "2025-03-07": 21
-    }
+    "dailyMinutesDown": {}
   }
 ]
