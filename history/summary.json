@@ -44,19 +44,20 @@
     "url": "https://element.bielefeldt.berlin/#/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/element.bielefeldt.berlin.ico",
     "slug": "element",
-    "status": "up",
+    "status": "down",
     "uptime": "98.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 630,
-    "timeDay": 561,
-    "timeWeek": 637,
-    "timeMonth": 571,
-    "timeYear": 623,
+    "timeDay": 518,
+    "timeWeek": 617,
+    "timeMonth": 568,
+    "timeYear": 622,
     "dailyMinutesDown": {
-      "2026-03-12": 38
+      "2026-03-12": 38,
+      "2026-07-17": 0
     }
   }
 ]
